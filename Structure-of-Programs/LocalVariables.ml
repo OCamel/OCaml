@@ -21,4 +21,4 @@ Now comparing C local variables and these named local expressions is a sleight o
 The C variable sum has a slot allocated for it on the stack. You can assign to sum later in the function if you want, or 
 even take the address of sum. This is NOT true for the OCaml version. In the OCaml version, sum is just a shorthand name for 
 the expression a +. b. There is no way to assign to sum or change its value in any way. (We'll see how you can do variables 
-whose value changes in a minute)./*
+whose value changes in a minute).*/
