@@ -1,0 +1,1 @@
+Any use of let ..., whether at the top level (globally) or within a function, is often called a let-binding.
