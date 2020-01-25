@@ -10,4 +10,4 @@ val f : float -> float -> float = <fun>
 
 
 */ The second version might be faster (but most compilers ought to be able to perform this step of "common subexpression 
-elimination" for you),and it is certainly easier to read. x in the second example is just shorthand for a +. b./*
+elimination" for you),and it is certainly easier to read. x in the second example is just shorthand for a +. b. /*
