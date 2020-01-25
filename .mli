@@ -1,0 +1,1 @@
+ocamlc -c foo.mli
